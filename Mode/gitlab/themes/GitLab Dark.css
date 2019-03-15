@@ -95,7 +95,6 @@ span.trend-value.ng-binding,
 .highcharts-legend-item tspan,
 .nvd3 text {
   font-family: "Source Sans Pro", sans-serif;
-  text-transform: uppercase;
 }
 
 /* Report title */
