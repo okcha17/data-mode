@@ -58,11 +58,11 @@ body.mode-embed.embed-preview {
 
 /* Blue top Bar */
 .mode-object, .mode-placeholder {
-  border-top: 4px solid #85241A !important;
+  border-top: 4px solid #1F1F1F !important;
 }
 
 .mode-object:hover, .mode-placeholder:hover {
-  border-top-color: #d44f34 !important;
+  border-top-color: #1F1F1F !important;
 }
 
 /* Placeholder header */
